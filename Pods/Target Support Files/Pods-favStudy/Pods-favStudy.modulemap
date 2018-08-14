@@ -1,0 +1,6 @@
+framework module Pods_favStudy {
+  umbrella header "Pods-favStudy-umbrella.h"
+
+  export *
+  module * { export * }
+}
